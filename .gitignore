@@ -2,3 +2,5 @@
 cdk.context.*
 cdk.out
 .env
+.envrc
+node_modules
